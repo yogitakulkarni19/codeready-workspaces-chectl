@@ -1,5 +1,5 @@
 {
-  "name": "crwctl",
+  "name": "crwctl_checkssh",
   "version": "2.9.0-CI-redhat",
   "description": "CodeReady Workspaces CLI",
   "keywords": [
